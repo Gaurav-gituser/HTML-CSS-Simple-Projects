@@ -13,8 +13,8 @@ border-radius: 50%;
 height: 60px;
 width: 200px;
 background-color: brown;
-border-bottom-left-radius: 30px;
-border-bottom-right-radius: 30px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
 position: relative;
 top: 200px;
 left: 100px;
@@ -32,7 +32,7 @@ display: inline-block;
 position: relative;
 
 top: 70px;
-left: 125px;
+left: 115px;
 
 }
 
@@ -48,6 +48,6 @@ display: inline-block;
 position: relative;
 
 top: 70px;
-left: 175px;
+left: 185px;
 
 }
